@@ -1,7 +1,4 @@
 #!/bin/bash
-#此脚本目前只是为了方便centos7下安装vsftp,其他版本后期集成。
-#ftp数据存放目录
-# by liwentong 20191219
 ftp_data=/home/ftp
 check_friewalld(){
     echo "开始检查防火墙设置"
